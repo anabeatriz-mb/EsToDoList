@@ -35,6 +35,7 @@ Este projeto foi construído utilizando um *stack* focado na velocidade e na efi
 O projeto foi configurado para ser executado diretamente no navegador, sem a necessidade de *build* ou servidores backend complexos.
 
 1.  **Clone o Repositório:** (Se estiver em um repositório, inclua o comando de clone).
-2.  **Abra o Arquivo:** Simplesmente abra o arquivo `index.html` (ou o seu arquivo principal) no seu navegador preferido.
-3.  **Desenvolva:** O navegador carregará automaticamente o Tailwind CSS via CDN e o seu `script.js` local.
+2.  **Acesse o link:** [text](https://es-to-do-list-2.vercel.app/) Clique e acesse em seu navegador.
+3.  **Abra o Arquivo:** Simplesmente abra o arquivo `index.html` (ou o seu arquivo principal) no seu navegador preferido.
+4.  **Desenvolva:** O navegador carregará automaticamente o Tailwind CSS via CDN e o seu `script.js` local.
     * *Nota:* Para projetos mais complexos, o Tailwind recomenda a instalação via CLI ou PostCSS para otimização e customização, mas para fins práticos, o CDN é ideal para o desenvolvimento.
